@@ -1,4 +1,5 @@
 **Simple Linear Regression**
-y = mx + b
+\[ Y = \beta_0 + \beta_1 X + \varepsilon \]
 **Multiple Linear Regression**
-y = b_0 + b_1x_1 + b_2x_2 + \ldots + b_nx_n
+\[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \ldots + \beta_p X_p + \varepsilon \]
+
