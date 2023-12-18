@@ -1,5 +1,23 @@
-**Simple Linear Regression**
-![Simple Linear Regression](https://latex.codecogs.com/gif.latex?%5C%5B%20Y%20%3D%20%5Cbeta_0%20&plus;%20%5Cbeta_1%20X_1%20&plus;%20%5Cbeta_2%20X_2%20&plus;%20%5Cldots%20&plus;%20%5Cbeta_p%20X_p%20&plus;%20%5Cvarepsilon%20%5C%5D)
-**Multiple Linear Regression**
-![Multiple Linear Regression](https://latex.codecogs.com/png.latex?%5Cdpi%7B120%7D%20%5Cfn_phv%20%5Clarge%20%5C%5B%20Y%20%3D%20%5Cbeta_0%20&plus;%20%5Cbeta_1%20X_1%20&plus;%20%5Cbeta_2%20X_2%20&plus;%20%5Cldots%20&plus;%20%5Cbeta_p%20X_p%20&plus;%20%5Cvarepsilon%20%5C%5D%20%7B%5Ccolor%7BEmerald%7D%20%7D)
+### Simple Linear Regression:
+The simple linear regression equation is typically represented as:
 
+$y = mx + b$
+
+Where:
+- $y$ is the dependent variable.
+- $x$ is the independent variable.
+- $m$ is the slope of the regression line.
+- $b$ is the y-intercept.
+
+### Multiple Linear Regression:
+For multiple linear regression with 'n' independent variables $x_1, x_2, ..., x_n$:
+
+$y = b_0 + b_1 \cdot x_1 + b_2 \cdot x_2 + ... + b_n \cdot x_n$
+
+Where:
+- $y$ is the dependent variable.
+- $x_1, x_2, ..., x_n$ are the independent variables.
+- $b_0$ is the y-intercept.
+- $b_1, b_2, ..., b_n$ are the coefficients associated with each independent variable.
+
+Feel free to customize these templates based on your specific regression models and variable names. Simply replace the placeholders with your actual variable names and coefficients.
