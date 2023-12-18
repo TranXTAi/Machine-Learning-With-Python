@@ -20,4 +20,3 @@ Where:
 - $b_0$ is the y-intercept.
 - $b_1, b_2, ..., b_n$ are the coefficients associated with each independent variable.
 
-Feel free to customize these templates based on your specific regression models and variable names. Simply replace the placeholders with your actual variable names and coefficients.
